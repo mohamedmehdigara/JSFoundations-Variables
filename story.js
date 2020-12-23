@@ -1,6 +1,6 @@
-let name = "Omar";
-let age = 24;
-let hobby = "Singing";
+let name = "Mehdi";
+let age = 27;
+let hobby = "Watching vlogs on youtube";
 let gender = "male";
 
 let namePrefix = gender == "male" ? "Mr." : "Ms.";
